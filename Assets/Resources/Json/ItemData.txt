@@ -1,0 +1,46 @@
+{   
+    "1001": {
+        "ID": "1001",
+        "Type": "1",
+        "Name": "剑",
+        "Attack": "75",
+        "Crit": "0.5",
+        "Defense": "0",
+        "Dodge": "0",
+        "ModelPath": "Model/掉落道具1",
+        "ImagePath": "Image/剑"
+    },
+    "1002": {
+        "ID": "1002",
+        "Type": "1",
+        "Name": "刀",
+        "Attack": "60",
+        "Crit": "0.8",
+        "Defense": "0",
+        "Dodge": "0",
+        "ModelPath": "Model/掉落道具2",
+        "ImagePath": "Image/刀"
+    },
+    "1003": {
+        "ID": "1003",
+        "Type": "1",
+        "Name": "衣服",
+        "Attack": "50",
+        "Crit": "0.2",
+        "Defense": "0",
+        "Dodge": "0",
+        "ModelPath": "Model/掉落道具3",
+        "ImagePath": "Image/衣服"
+    },
+    "1004": {
+        "ID": "1004",
+        "Type": "2",
+        "Name": "盔甲",
+        "Attack": "0",
+        "Crit": "0",
+        "Defense": "100",
+        "Dodge": "0.2",
+        "ModelPath": "Model/掉落道具4",
+        "ImagePath": "Image/盔甲"
+    }
+}
